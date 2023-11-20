@@ -92,8 +92,8 @@ export const Skill_data = [
       link: "awesome.com",
     },
     {
-      name: "Upwork",
-      src: "/upwork.svg",
+      name: "Discord",
+      src: "/discord.svg",
       link: "awesome.com",
     },
   ];
